@@ -1,5 +1,5 @@
 # JavaScript-Project-1-functions-
-
+<strong>Profile :</strong> https://edabit.com/user/m6WJicTKkmxXRv678
 the Edabit problem-solving game
 
 <ol>
